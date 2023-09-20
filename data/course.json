@@ -1,0 +1,57 @@
+{
+  "term": "Spring",
+  "year": "2016",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Anthropology",
+      "Biological Anthropology"
+    ],
+    [
+      "Social Science",
+      "Anthropology",
+      "Cultural Anthropology"
+    ],
+    [
+      "Social Science",
+      "Anthropology",
+      "Ethnography"
+    ],
+    [
+      "Social Science",
+      "Anthropology",
+      "Social Anthropology"
+    ]
+  ],
+  "legacy_uid": "41d7f0cd-31e3-83dc-7865-01071c0c9569",
+  "instructors": {
+    "content": [
+      "c32c60e3-3896-f333-3a65-847200780f52"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "f65d3e62-cc35-cca8-301a-fa14545d4b17",
+    "website": "21a-104-memory-culture-forgetting-spring-2016"
+  },
+  "course_title": "Memory, Culture, Forgetting",
+  "course_description": "This course introduces scholarly debates about the sociocultural practices through which individuals and societies create, sustain, recall, and erase memories. Emphasis is given to the history of knowledge, construction of memory, the role of authorities in shaping memory, and how societies decide on whose versions of memory are more \"truthful\" and \"real.\" Other topics include how memory works in the human brain, memory and trauma, amnesia, memory practices in the sciences, false memory, sites of memory, and the commodification of memory. Students taking the graduate version complete additional assignments.\n",
+  "department_numbers": [
+    "21A"
+  ],
+  "extra_course_numbers": "21A.119",
+  "primary_course_number": "21A.104",
+  "course_image_thumbnail": {
+    "content": "41d587e2-6be7-394b-98ef-d738c37f075f",
+    "website": "21a-104-memory-culture-forgetting-spring-2016"
+  },
+  "learning_resource_types": [
+    "Written Assignments with Examples"
+  ],
+  "site_uid": "4ccfa11e-694a-402d-9ffd-7e9c2be526eb",
+  "site_short_id": "21a.104-spring-2016",
+  "title": "Course Metadata"
+}
